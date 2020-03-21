@@ -15,6 +15,8 @@ Dependencies that I used are:
 	** In order to run Selenium, properties need to change under initializeDriver() method in "utility.java"
 	** You need to save the LibraryForm.html file to your computer and locate the path under 
 	user_is_on_book_return_page() method in "stepDefinition.java"
+	
+	** In order to run this test cases, you need to right click on "TestRunner.java" file and Run As "JUnit Test"
 
 
 	
