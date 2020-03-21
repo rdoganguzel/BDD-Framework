@@ -9,7 +9,7 @@ And Close the browser
 
 Examples:
 |name		|title				|author		   	|pages  	|dewey		 	|readOrNot	|time	         	|rating	|
-|frank		|Philosophy 		|Donald 		|657	  	|120.563DUC   	|read		|2_3weeks         	| 1		|
+|frank		|Philosophy 			|Donald 		|657	  	|120.563DUC   	|read		|2_3weeks         	| 1		|
 |mike		|Math  				|Mickey			|1200   	|125.563MOU   	|partially	|morethen_4weeks  	| 5		|
 |john		|Science	 		|Rick 			|145	  	|601.103SAN   	|read		|2_3weeks         	| 1		|
 |erik		|Statistics			|Solitude 	 	|734	   	|834.334OBR   	|unread		|less_week        	| 4		|
