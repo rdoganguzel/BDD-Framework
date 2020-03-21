@@ -75,6 +75,7 @@ public class stepDefinition extends utility {
 
 		try {
 			//Sends the console output to .txt file
+			//choose a path in your computer to save the report.txt
 			PrintStream myconsole = new PrintStream(
 					new File("//Users/rdoganguzel/Desktop/LittlefootLibrary/report.txt"));
 			System.setOut(myconsole);
