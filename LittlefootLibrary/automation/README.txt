@@ -1,7 +1,5 @@
 Hello,
 
-Thank you for giving me your time and considering my application.
-
 I created a Maven Project and all dependencies are under "pom.xml"
 Dependencies that I used are:
 
@@ -18,10 +16,10 @@ Dependencies that I used are:
 	** Choose a path in your computer to save "report.txt" under report_the_records_to_a_txt_file() method in
 	"stepDefinition.java" class
 	** In order to run this test cases, you need to right click on "TestRunner.java" file and Run As "JUnit Test"
-	
+
+==========================================================================================================================================
 
 
-	
  1) src/main/java/PageObjectModel/bookReturnForm.java
  	I created "bookReturnForm.java" and defined every single element in the page (LibraryForm.html)
  	by using Page Object Model and Selenium Webdriver
